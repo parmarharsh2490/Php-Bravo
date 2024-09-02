@@ -1,0 +1,18 @@
+{
+    "name": "harsh/php-backend",
+    "autoload": {
+        "psr-4": {
+            "Chirag\\PhpBackend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "parmarharsh2490",
+            "email": "parmarharsh6480@gmail.com"
+        }
+    ],
+      "require": {
+          "getbrevo/brevo-php": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+      }  
+}
